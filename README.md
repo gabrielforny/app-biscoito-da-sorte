@@ -1,5 +1,5 @@
 # app-biscoito-da-sorte
-Aplicativo criado em React JS.
+Aplicativo criado em React Native.
 <br><br>
 Para utilizar e testar o arquivo, é necessário:<br>
 -Ter o Android Studio na máquina.<br>
